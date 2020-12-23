@@ -13,6 +13,6 @@ Además, otros datos de cada hilo se guardaron en un .csv distinto.
 Posteriormente se usó parte de esa data (threads_dataset.csv y cenicienta.csv) para hacer gráficos en con Jupyter Notebook, pandas y matplotlib.
 Específicamente se usó el servicio de Jupyter Notebook en nube proporcionado por Google (Colab).
 
-Quise hacer públicos tanto la data como el script de Python y el Jupyter Notebook para que, así como a mi me sirvió para practicar y aprender, pueda ser de utilidad a otros.
+Quise hacer públicos tanto la data como el script de Python y el Jupyter Notebook (no he logrado subirlo a github) para que, así como a mi me sirvió para practicar y aprender, pueda ser de utilidad a otros.
 
 Muchas gracias.
