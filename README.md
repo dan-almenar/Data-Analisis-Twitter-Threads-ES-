@@ -10,8 +10,7 @@ Los hilos en cuestión narran la verdadera historia de cuentos de hadas llevados
 Con ese script se generó un archivo llamado threads_dataset.csv que recoge datos de todos los veintisiete hilos.
 Además, otros datos de cada hilo se guardaron en un .csv distinto.
 
-Posteriormente se usó parte de esa data (threads_dataset.csv y cenicienta.csv) para hacer gráficos en con Jupyter Notebook, pandas y matplotlib.
-Específicamente se usó el servicio de Jupyter Notebook en nube proporcionado por Google (Colab).
+Posteriormente se usó parte de esa data (threads_dataset.csv y cenicienta.csv) para hacer gráficos en con Jupyter Notebook.
 
 Quise hacer públicos tanto la data como el script de Python y el Jupyter Notebook (no he logrado subirlo a github) para que, así como a mi me sirvió para practicar y aprender, pueda ser de utilidad a otros.
 
